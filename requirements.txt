@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-google-vertexai
+google-cloud-aiplatform
+chromadb
+gunicorn
+gradio
+vertexai
+Flask
+fastapi
+uvicorn
